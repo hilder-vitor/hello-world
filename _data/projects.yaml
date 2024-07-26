@@ -2,7 +2,7 @@
   subtitle: New NIST standardization process
   group: featured
   image: images/post-quantum-crypto-key.jpg
-  description: Project in collaboration with [TII](https://www.tii.ae/cryptography)
+  description: Project in collaboration with [TII](https://www.tii.ae/cryptography){:target="_blank"}
   tags:
     - PQC
     - Digital Signature
