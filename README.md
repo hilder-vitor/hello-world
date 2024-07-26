@@ -1,5 +1,5 @@
 
-# hilder-vitorDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# LASCA: securing computation
 
 Visit **[hilder-vitor.github.io/hello-world](https://hilder-vitor.github.io/hello-world)** 🚀
 
