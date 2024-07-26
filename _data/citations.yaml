@@ -55,7 +55,7 @@
   link: https://doi.org/gt5bcd
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.5753/sbseg.2022.224951
   title: Evaluation of modular multiplication techniques for Supersingular Isogeny
     Schemes on ARMv8 cores
@@ -72,7 +72,7 @@
   link: https://doi.org/gt5bcf
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.62056/anxrxrxqi
   title: Towards Practical Transciphering for FHE with Setup Independent of the Plaintext
     Space
@@ -85,7 +85,7 @@
   link: https://doi.org/gt5bcg
   orcid: 0000-0003-1303-3760
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.62056/a6ksdkp10
   title: Verifiable FHE via Lattice-based SNARKs
   authors:
@@ -98,7 +98,7 @@
   link: https://doi.org/gt5bch
   orcid: 0000-0003-1303-3760
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1007/978-981-97-5025-2_8
   title: "NTRU-Based FHE for\_Larger Key and\_Message Space"
   authors:
@@ -111,7 +111,7 @@
   link: https://doi.org/gt5bcj
   orcid: 0000-0003-1303-3760
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1007/978-981-99-8736-8_1
   title: 'Amortized Bootstrapping Revisited: Simpler, Asymptotically-Faster, Implemented'
   authors:
@@ -123,7 +123,7 @@
   link: https://doi.org/gt5bck
   orcid: 0000-0003-1303-3760
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1007/978-3-031-22966-4_7
   title: "FINAL: Faster FHE Instantiated with\_NTRU and\_LWE"
   authors:
@@ -137,7 +137,7 @@
   link: https://doi.org/gt5bcm
   orcid: 0000-0003-1303-3760
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1007/978-3-030-75245-3_13
   title: Bootstrapping Fully Homomorphic Encryption over the Integers in Less than
     One Second
@@ -148,7 +148,7 @@
   link: https://doi.org/gt5bcn
   orcid: 0000-0003-1303-3760
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: isbn:978-3-030-57808-4
   title: Applied cryptography and network security. Part 1
   authors: []
@@ -157,7 +157,7 @@
   link: ''
   orcid: 0000-0003-1303-3760
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: isbn:978-3-030-34621-8
   title: 'Advances in cryptology - ASIACRYPT 2019: 25th International Conference on
     the Theory and Application of Cryptology and Information Security, Kobe, Japan,
@@ -168,7 +168,7 @@
   link: ''
   orcid: 0000-0003-1303-3760
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1109/TR.2023.3237849
   title: 'Detecting Cryptography Misuses With Machine Learning: Graph Embeddings,
     Transfer Learning and Data Augmentation in Source Code Related Tasks'
@@ -181,7 +181,7 @@
   link: https://doi.org/gt5bcp
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.3390/e23091108
   title: 'The Ring-LWE Problem in Lattice-Based Cryptography: The Case of Twisted
     Embeddings'
@@ -196,7 +196,7 @@
   link: https://doi.org/gt5bcq
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1016/J.PROCS.2021.11.035
   title: "Tutte\u2019s 3-flow Conjecture for almost even graphs"
   authors:
@@ -207,7 +207,7 @@
   link: https://doi.org/gt5bcr
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.3934/AMC.2020048
   title: Isogeny formulas for Jacobi intersection and twisted hessian curves
   authors:
@@ -219,7 +219,7 @@
   link: https://doi.org/gt5bcs
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1109/ICMLA51294.2020.00171
   title: Using Graph Embeddings and Machine Learning to Detect Cryptography Misuse
     in Source Code
@@ -233,7 +233,7 @@
   link: https://doi.org/gq4wp4
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.20396/revpibic2720192087
   title: Characterizing lattices for cryptography
   authors:
@@ -244,7 +244,7 @@
   link: https://doi.org/gt5bct
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.20396/revpibic2720191576
   title: Choosing parameters for trellis-based encryption systems
   authors:
@@ -255,7 +255,7 @@
   link: https://doi.org/gt5bcv
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1145/3309759
   title: High-performance Implementation of Elliptic Curve Cryptography Using Vector
     Instructions
@@ -268,7 +268,7 @@
   link: https://doi.org/ghnh94
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1007/978-3-030-30530-7_17
   title: Fast White-Box Implementations of Dedicated Ciphers on the ARMv8 Architecture
   authors:
@@ -283,7 +283,7 @@
   link: https://doi.org/gt5bcw
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1109/tr.2019.2937214
   title: Understanding How to Use Static Analysis Tools for Detecting Cryptography
     Misuse in Software
@@ -298,7 +298,7 @@
   link: https://doi.org/gt5bcx
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1016/j.jvcir.2018.04.002
   title: 'Connecting the dots: Toward accountable machine-learning printer attribution
     methods'
@@ -312,7 +312,7 @@
   link: https://doi.org/gdmq8v
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1016/j.cose.2018.07.013
   title: Leveraging ontologies and machine-learning techniques for malware analysis
     into Android permissions ecosystems
@@ -327,7 +327,7 @@
   link: https://doi.org/gfhgfx
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1109/ISSRE.2017.27
   title: 'Practical Evaluation of Static Analysis Tools for Cryptography: Benchmarking
     Method and Case Study'
@@ -343,7 +343,7 @@
   link: https://doi.org/gt5bcz
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1109/ICSSA.2016.12
   title: Towards a Methodology for the Development of Secure Cryptographic Software
   authors:
@@ -354,7 +354,7 @@
   link: https://doi.org/gt5bc2
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1109/HST.2016.7495564
   title: 'ACBuilder: A tool for hardware architecture security evaluation'
   authors:
@@ -369,7 +369,7 @@
   link: https://doi.org/gt5bc3
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1109/QRS-C.2016.23
   title: Mining Cryptography Misuse in Online Forums
   authors:
@@ -381,7 +381,7 @@
   link: https://doi.org/gt5bc4
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1007/978-3-319-17470-9_17
   title: Adaptive Key Recovery Attacks on NTRU-Based Somewhat Homomorphic Encryption
     Schemes
@@ -394,7 +394,7 @@
   link: https://doi.org/gt5bc5
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1007/978-3-319-18500-2_2
   title: "Assurance Cases as a Didactic Tool for\_Information Security"
   authors:
@@ -405,7 +405,7 @@
   link: https://doi.org/gt5bc6
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1007/978-3-319-24126-5_17
   title: Efficient and Secure Elliptic Curve Cryptography for 8-bit AVR Microcontrollers
   authors:
@@ -417,7 +417,7 @@
   link: https://doi.org/gt5bc7
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1109/ARES.2015.60
   title: Hardware Security Evaluation Using Assurance Case Models
   authors:
@@ -430,7 +430,7 @@
   link: https://doi.org/gt5bc8
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1145/2766498.2766519
   title: 'Security and system architecture: comparison of Android customizations'
   authors:
@@ -448,7 +448,7 @@
   link: https://doi.org/gt5bc9
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1109/TrustCom.2013.203
   title: 'Case Study: On the Security of Key Storage on PCs'
   authors:
@@ -461,7 +461,7 @@
   link: https://doi.org/gt5bdb
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1007/s00200-013-0197-9
   title: 'E-commerce of digital items and the problem of item validation: introducing
     the concept of reversible degradation'
@@ -473,7 +473,7 @@
   link: https://doi.org/f47kng
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1016/j.jss.2013.03.059
   title: "FORTUNA\u2014A framework for the design and development of hardware-based\
     \ secure systems"
@@ -486,7 +486,7 @@
   link: https://doi.org/gt5bdc
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1007/978-3-642-40588-4_10
   title: Fast Software Polynomial Multiplication on ARM Processors Using the NEON
     Engine
@@ -500,7 +500,7 @@
   link: https://doi.org/gt5bdd
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: wosuid:PPRN:18908939
   title: Web of Science
   authors: []
@@ -509,7 +509,7 @@
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:18908939
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: wosuid:WOS:000342217900040
   title: Web of Science
   authors: []
@@ -518,7 +518,7 @@
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000342217900040
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1109/ICNSS.2011.6059999
   title: FORTUNA - A probabilistic framework for early design stages of hardware-based
     secure systems
@@ -531,7 +531,7 @@
   link: https://doi.org/b8qf32
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1109/ITW.2011.6089439
   title: LWE-based identification schemes
   authors:
@@ -543,7 +543,7 @@
   link: https://doi.org/bpfc7v
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1016/j.comcom.2010.05.013
   title: 'TinyPBC: Pairings for authenticated identity-based non-interactive key distribution
     in sensor networks'
@@ -560,7 +560,7 @@
   link: https://doi.org/fqbmjk
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.3934/amc.2010.4.169
   title: Efficient implementation of elliptic curve cryptography in wireless sensors
   authors:
@@ -573,7 +573,7 @@
   link: https://doi.org/d9mtgk
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: wosuid:WOS:000288935800009
   title: Web of Science
   authors: []
@@ -582,7 +582,7 @@
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000288935800009
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1007/978-3-642-16441-5_9
   title: On Device Identity Establishment and Verification
   authors:
@@ -594,7 +594,7 @@
   link: https://doi.org/ftjrjm
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1145/1920261.1920291
   title: T-DRE
   authors:
@@ -609,7 +609,7 @@
   link: https://doi.org/fv8h72
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1109/ICC.2009.5199433
   title: SB-RAWVec - A Semi-Blind Watermarking Method for Vector Maps
   authors:
@@ -620,7 +620,7 @@
   link: https://doi.org/bbmr7k
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1007/978-3-540-77690-1_19
   title: 'NanoECC: Testing the Limits of Elliptic Curve Cryptography in Sensor Networks'
   authors:
@@ -634,7 +634,7 @@
   link: https://doi.org/b4np6d
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: wosuid:WOS:000253413500019
   title: Web of Science
   authors: []
@@ -643,7 +643,7 @@
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000253413500019
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1109/INSS.2008.4610921
   title: 'TinyPBC: Pairings for authenticated identity-based non-interactive key distribution
     in sensor networks'
@@ -657,7 +657,7 @@
   link: https://doi.org/cs6n6n
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1007/s11265-006-0015-8
   title: A Custom Instruction Approach for Hardware and Software Implementations of
     Finite Field Arithmetic over $$\mathbb{F}_{{2^{{163}} }} $$ using Gaussian Normal
@@ -673,7 +673,7 @@
   link: https://doi.org/fnxqnh
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1109/PERCOMW.2007.56
   title: Identity-Based Encryption for Sensor Networks
   authors:
@@ -688,7 +688,7 @@
   link: https://doi.org/fqnwdv
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1007/978-3-540-73489-5_10
   title: Implementing Cryptographic Pairings over Barreto-Naehrig Curves
   authors:
@@ -700,7 +700,7 @@
   link: https://doi.org/dv3r86
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: wosuid:WOS:000247908000010
   title: Web of Science
   authors: []
@@ -709,7 +709,7 @@
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000247908000010
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1109/PERCOMW.2007.107
   title: 'SOS: Secure Overlay Sensornets'
   authors:
@@ -722,7 +722,7 @@
   link: https://doi.org/fd2mpd
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1016/j.sigpro.2007.05.016
   title: "SecLEACH\u2014On the security of clustered sensor networks"
   authors:
@@ -738,7 +738,7 @@
   link: https://doi.org/c7rptp
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1109/NCA.2007.48
   title: 'TinyTate: Computing the Tate Pairing in Resource-Constrained Sensor Nodes'
   authors:
@@ -754,7 +754,7 @@
   link: https://doi.org/bgr8fb
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: wosuid:WOS:000251784900006
   title: Web of Science
   authors: []
@@ -763,7 +763,7 @@
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000251784900006
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1109/NCA.2006.48
   title: SecLEACH - A Random Key Distribution Solution for Securing Clustered Sensor
     Networks
@@ -775,7 +775,7 @@
   link: https://doi.org/ckzh9j
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1109/TC.2006.132
   title: Software multiplication using Gaussian normal bases
   authors:
@@ -790,7 +790,7 @@
   link: https://doi.org/b2psbc
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1109/FPT.2005.1568517
   title: A custom instruction approach for hardware and software implementations of
     finite field arithmetic over F//sub 2/sup163// using Gaussian normal bases
@@ -805,7 +805,7 @@
   link: https://doi.org/btzqtg
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: wosuid:WOS:000224550900024
   title: Web of Science
   authors: []
@@ -814,7 +814,7 @@
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000224550900024
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: wosuid:WOS:000188940300033
   title: Web of Science
   authors: []
@@ -823,7 +823,7 @@
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000188940300033
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1109/WECWIS.2000.853874
   title: Two approaches for pay-per-use software construction
   authors:
@@ -837,7 +837,7 @@
   link: https://doi.org/dcxndw
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: wosuid:WOS:000088608600027
   title: Web of Science
   authors: []
@@ -846,7 +846,7 @@
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000088608600027
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: wosuid:WOS:000086437300016
   title: Web of Science
   authors: []
@@ -855,7 +855,7 @@
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000086437300016
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1109/CSAC.1998.738600
   title: A scheme for analyzing electronic payment systems
   authors:
@@ -867,7 +867,7 @@
   link: https://doi.org/ccqp4j
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1109/SCCC.1998.730787
   title: An improvement of the Guajardo-Paar method for multiplication on non-supersingular
     elliptic curves
@@ -880,7 +880,7 @@
   link: https://doi.org/cwrw8v
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
-  file: orcid-faculty.yaml
+  file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
