@@ -1,10 +1,13 @@
 ---
 ---
 
-# Starting from 2012, LCA (Laboratory of Applied Cryptography) and LAS (Laboratory of Systems Administration and Security) merged into the 
+# Laboratory of Security and Cryptography (LASCA): securing computation
+
+Starting from 2012, LCA (Laboratory of Applied Cryptography) and LAS (Laboratory of Systems Administration and Security) merged into the 
 Laboratory of Security and Cryptography (LASCA), at the Institute of Computing (IC) of the University of Campinas (UNICAMP). 
 Research topics include, among others, malware behavior analysis, cloud security, vulnerability analysis, 
 efficient and secure implementation of cryptographic applications, electronic voting, and computing on encrypted data.
+
 
 
 {% include section.html %}
@@ -13,7 +16,7 @@ efficient and secure implementation of cryptographic applications, electronic vo
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Papers, software, patents...
 
 {%
   include button.html
@@ -36,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+TODO: add *general* text about research projects on cryptography and security
 
 {%
   include button.html
