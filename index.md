@@ -31,7 +31,7 @@ Papers, software, patents...
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.png"
   link="research"
   title="Our Research"
   text=text
@@ -54,7 +54,7 @@ TODO: add *general* text about research projects on cryptography and security
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -79,7 +79,7 @@ Our team is composed by professors, post-doctoral researchers, PhD candidates an
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/people.jpg"
   link="team"
   title="Our Team"
   text=text
