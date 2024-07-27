@@ -19,7 +19,18 @@ Add more text
 
 {% include section.html %}
 
+# Post-docs
+
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
+
+# PhD candidates
+
+{% include list.html data="members" component="portrait" filters="role: phd" %}
+
+# MSc students
+
+{% include list.html data="members" component="portrait" filters="role: msc" %}
+
 
 {% capture content %}
 
