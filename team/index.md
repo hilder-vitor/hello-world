@@ -11,11 +11,13 @@ TODO: add text about team
 
 {% include section.html %}
 
+# Faculty
+
 {% include list.html data="members" component="portrait" filters="role: faculty" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Add more text
+Add more text if we want
 
 {% include section.html %}
 
@@ -31,7 +33,12 @@ Add more text
 
 {% include list.html data="members" component="portrait" filters="role: msc" %}
 
+# Undergraduate students
 
+{% include list.html data="members" component="portrait" filters="role: bsc" %}
+
+
+<!--
 {% capture content %}
 
 {% include figure.html image="images/photo.jpg" %}
@@ -41,3 +48,4 @@ Add more text
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+-->
