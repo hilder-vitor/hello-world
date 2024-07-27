@@ -73,6 +73,53 @@
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
   file: orcid.yaml
+- id: isbn:978-3-030-40921-0
+  title: "Lecture notes in computer science. 11975: Information Security and Cryptology\
+    \ \u2013 ICISC 2019: 22nd International Conference, Seoul, South Korea, December\
+    \ 4\u20136, 2019, Revised Selected Papers / Jae Hong Seo (Ed.)"
+  authors: []
+  publisher: Springer
+  date: '1197-01-01'
+  link: ''
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.1016/j.entcs.2019.04.003
+  title: On Fair Cost Facility Location Games with Non-singleton Players
+  authors:
+  - "F\xE9lix Carvalho Rodrigues"
+  - Eduardo C. Xavier
+  - "Guido Sch\xE4fer"
+  publisher: Electronic Notes in Theoretical Computer Science
+  date: '2019-04-01'
+  link: https://doi.org/gt5bfh
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.1016/j.ipl.2016.09.001
+  title: Non-cooperative capacitated facility location games
+  authors:
+  - "F\xE9lix Carvalho Rodrigues"
+  - Eduardo Candido Xavier
+  publisher: Information Processing Letters
+  date: '2017-01-01'
+  link: https://doi.org/gt5bfj
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.4230/OASIcs.ATMOS.2011.122
+  title: On the Smoothed Price of Anarchy of the Traffic Assignment Problem
+  authors:
+  - Luciana Buriol
+  - Marcus Ritt
+  - Felix Rodrigues
+  - "Guido Sch\xE4fer"
+  publisher: "Schloss Dagstuhl \u2013 Leibniz-Zentrum f\xFCr Informatik"
+  date: '2011-01-01'
+  link: https://doi.org/gt5bfk
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
 - id: doi:10.62056/anxrxrxqi
   title: Towards Practical Transciphering for FHE with Setup Independent of the Plaintext
     Space
