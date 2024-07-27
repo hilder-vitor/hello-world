@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: LASCA, Securing computation
+title: LASCA, securing computation
 subtitle: 
 description: 
-header: images/background.jpg
-footer: images/background.jpg
+header: images/background.png
+footer: images/background.png
 proofer: false
 
 # site social media and other links
