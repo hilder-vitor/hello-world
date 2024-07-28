@@ -7,7 +7,6 @@
     - PQC
     - Digital Signature
     - cryptography
-
 - title: Tor Protection against malicious traffic
   subtitle: 2015 - 2018
   group: past
