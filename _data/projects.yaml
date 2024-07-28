@@ -1,8 +1,19 @@
 - title: Post-quantum signature schemes
   subtitle: New NIST standardization process
-  group: featured
+  group: ongoing
   image: images/post-quantum-crypto-key.jpg
-  description: Project in collaboration with [TII](https://www.tii.ae/cryptography){:target="_blank"}
+  description: Project in collaboration with [TII](https://www.tii.ae/cryptography){:target="_blank"}.
   tags:
     - PQC
     - Digital Signature
+    - cryptography
+
+- title: Tor Protection against malicious traffic
+  subtitle: 2015 - 2018
+  group: past
+  image: images/tor.jpg
+  description: This project proposes to design and implement a solutions to protect the Tor network against malicious code and malicious traffic, using forensic techniques and artificial intelligence. PIs: Prof. Paulo Lício de Geus and Marcelo Invert Palma Salas.
+  tags:
+    - Tor
+    - network
+    - security

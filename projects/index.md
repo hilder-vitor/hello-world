@@ -15,12 +15,12 @@ TODO: add *general* information about our research projects
 
 {% include section.html %}
 
-## Featured
+## Current projects
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
 
-## More
+## Past projects
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="projects" filters="group: past" style="small" %}

@@ -1,7 +1,7 @@
 ---
 ---
 
-# Laboratory of Security and Cryptography (LASCA): securing computation
+# Laboratory of Security and Cryptography (LASCA)
 
 Starting from 2012, LCA (Laboratory of Applied Cryptography) and LAS (Laboratory of Systems Administration and Security) merged into the 
 Laboratory of Security and Cryptography (LASCA), at the [Institute of Computing (IC)](https://ic.unicamp.br/) of the 
