@@ -17,7 +17,7 @@ TODO: add *general* information about our research projects
 
 ## Current projects
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% include list.html component="card" data="projects" filters="group: ongoing" %}
 
 {% include section.html %}
 
