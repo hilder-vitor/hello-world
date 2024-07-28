@@ -13,6 +13,6 @@
   image: images/tor.jpg
   description: This project proposes to design and implement a solutions to protect the Tor network against malicious code and malicious traffic, using forensic techniques and artificial intelligence. PIs: Prof. Paulo Lício de Geus and Marcelo Invert Palma Salas.
   tags:
-    - Tor
+    - tor
     - network
     - security
