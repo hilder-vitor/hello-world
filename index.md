@@ -80,7 +80,7 @@ Our team is composed by professors, post-doctoral researchers, PhD candidates an
 
 {%
   include feature.html
-  image="images/people.png"
+  image="images/people.jpg"
   link="team"
   title="Our Team"
   text=text
