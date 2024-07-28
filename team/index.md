@@ -17,7 +17,7 @@ TODO: add text about team
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Add more text if we want
+TODO: Add more text if we want
 
 {% include section.html %}
 
