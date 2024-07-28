@@ -17,7 +17,7 @@ efficient and secure implementation of cryptographic applications, electronic vo
 
 {% capture text %}
 
-Papers, software, patents...
+TODO: add text about our papers, software, patents...
 
 {%
   include button.html
@@ -40,7 +40,7 @@ Papers, software, patents...
 
 {% capture text %}
 
-TODO: add *general* text about research projects on cryptography and security
+TODO: add text about research projects on cryptography and security
 
 {%
   include button.html
@@ -65,7 +65,7 @@ TODO: add *general* text about research projects on cryptography and security
 
 {% capture text %}
 
-Our team is composed by professors, post-doctoral researchers, PhD candidates and both MSc and undergraduate students.
+TODO: add text about our team
 
 {%
   include button.html
