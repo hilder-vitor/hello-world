@@ -4,6 +4,7 @@ image: team/photos/felix-rodrigues.jpg
 role: postdoc
 description: Post-doctoral researcher
 aliases:
+  - Félix Carvalho Rodrigues
   - Félix C. Rodrigues
   - Félix C Rodrigues
   - Félix Rodrigues

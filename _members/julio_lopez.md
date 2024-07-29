@@ -4,6 +4,7 @@ image: team/photos/julio-lopez.jpg
 role: faculty
 description: Associate Professor
 aliases:
+  - Julio César López Hernández
   - Julio C. López
   - Julio López
 links:

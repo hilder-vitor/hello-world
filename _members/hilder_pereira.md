@@ -4,6 +4,7 @@ image: team/photos/hilder-pereira.jpg
 role: faculty
 description: Assistant Professor
 aliases:
+  - Hilder Vitor Lima Pereira
   - Hilder V. L. Pereira
   - H. V. L. Pereira
   - Hilder V L Pereira

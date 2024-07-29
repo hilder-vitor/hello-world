@@ -4,6 +4,7 @@ image: team/photos/paulo-licio.jpg
 role: faculty
 description: Professor
 aliases:
+  - Paulo Lício de Geus
   - Paulo L. De Geus
   - P De Geus
 links:

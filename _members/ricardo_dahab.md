@@ -4,6 +4,7 @@ image: team/photos/ricardo-dahab.jpg
 role: faculty
 description: Professor
 aliases:
+  - Ricardo Dahab
   - R. Dahab
 links:
   home-page: https://www.ic.unicamp.br/~rdahab/
