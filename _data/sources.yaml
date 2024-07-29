@@ -1,6 +1,5 @@
 - id: doi:10.46586/tches.v2023.i4.32-57
   type: paper
-  date: 2023-08-01
   image: images/basalisc-diagram.png
   buttons:
     - type: pdf
