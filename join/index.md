@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Join us
 
-TODO: add text about how students can reach us to join our team
+**TODO** add text about how students can reach us to join our team
 
 
 {% include section.html dark=true %}
