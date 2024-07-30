@@ -928,6 +928,527 @@
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1145/3615366.3615374
+  title: Enhancing Malware Family Classification in the Microsoft Challenge Dataset
+    via Transfer Learning
+  authors:
+  - Marcelo Invert Palma Salas
+  - Paulo De Geus
+  - Marcus Botacin
+  publisher: 12th Latin-American Symposium on Dependable and Secure Computing
+  date: '2023-10-16'
+  link: https://doi.org/gt5kkb
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.COSE.2021.102500
+  title: 'AntiViruses under the microscope: A hands-on perspective'
+  authors:
+  - Marcus Botacin
+  - Felipe Duarte Domingues
+  - "Fabr\xEDcio Ceschin"
+  - Raphael Machnicki
+  - Marco Antonio Zanata Alves
+  - "Paulo L\xEDcio de Geus"
+  - "Andr\xE9 Gr\xE9gio"
+  publisher: Computers &amp; Security
+  date: '2022-01-01'
+  link: https://doi.org/gsjsrb
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3429741
+  title: One Size Does Not Fit All
+  authors:
+  - Marcus Botacin
+  - Hojjat Aghakhani
+  - Stefano Ortolani
+  - Christopher Kruegel
+  - Giovanni Vigna
+  - Daniela Oliveira
+  - "Paulo L\xEDcio De Geus"
+  - "Andr\xE9 Gr\xE9gio"
+  publisher: ACM Transactions on Privacy and Security
+  date: '2021-01-21'
+  link: https://doi.org/gpvk7w
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cose.2020.101859
+  title: 'We need to talk about antiviruses: challenges &amp; pitfalls of AV evaluations'
+  authors:
+  - Marcus Botacin
+  - Fabricio Ceschin
+  - Paulo de Geus
+  - "Andr\xE9 Gr\xE9gio"
+  publisher: Computers &amp; Security
+  date: '2020-08-01'
+  link: https://doi.org/gt5kkc
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.20396/revpibic2720192100
+  title: Analysis, comparison and assessment of the behavior of malware and goodware
+  authors:
+  - "Giovanni Bert\xE3o"
+  - Paulo de Geus
+  publisher: Resumos do...
+  date: '2019-12-20'
+  link: https://doi.org/gt5kkd
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.20396/revpibic2720192426
+  title: Linux Malware Behavior Description
+  authors:
+  - Lucas Galante
+  - Paulo de Geus
+  - Marcus Botacin
+  publisher: Resumos do...
+  date: '2019-11-30'
+  link: https://doi.org/gt5kkf
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/RECOSOC48741.2019.9034972
+  title: 'The AV says: Your Hardware Definitions Were Updated!'
+  authors:
+  - Marcus Botacin
+  - Lucas Galante
+  - Fabricio Ceschin
+  - Paulo C. Santos
+  - Luigi Carro
+  - Paulo de Geus
+  - Andre Gregio
+  - Marco A. Z. Alves
+  publisher: 2019 14th International Symposium on Reconfigurable Communication-centric
+    Systems-on-Chip (ReCoSoC)
+  date: '2019-07-01'
+  link: https://doi.org/gt5kkg
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11416-019-00333-y
+  title: "\u201CVANILLA\u201D malware: vanishing antiviruses by interleaving layers\
+    \ and layers of attacks"
+  authors:
+  - Marcus Botacin
+  - "Paulo L\xEDcio de Geus"
+  - "Andr\xE9 Gr\xE9gio"
+  publisher: Journal of Computer Virology and Hacking Techniques
+  date: '2019-06-11'
+  link: https://doi.org/gt5kkh
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3152162
+  title: Enhancing Branch Monitoring for Security Purposes
+  authors:
+  - Marcus Botacin
+  - "Paulo L\xEDcio De Geus"
+  - "Andr\xE9 Gr\xE9gio"
+  publisher: ACM Transactions on Privacy and Security
+  date: '2018-01-02'
+  link: https://doi.org/gt5kkj
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-99136-8_3
+  title: 'Lumus: Dynamically Uncovering Evasive Android Applications'
+  authors:
+  - Vitor Afonso
+  - Anatoli Kalysch
+  - "Tilo M\xFCller"
+  - Daniela Oliveira
+  - "Andr\xE9 Gr\xE9gio"
+  - "Paulo L\xEDcio de Geus"
+  publisher: Developments in Language Theory
+  date: '2018-01-01'
+  link: https://doi.org/gt5kkm
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-77028-4_9
+  title: "Malicious Software Classification Using VGG16 Deep Neural Network\u2019\
+    s Bottleneck Features"
+  authors:
+  - Edmar Rezende
+  - Guilherme Ruppert
+  - Tiago Carvalho
+  - Antonio Theophilo
+  - Fabio Ramos
+  - Paulo de Geus
+  publisher: Advances in Intelligent Systems and Computing
+  date: '2018-01-01'
+  link: https://doi.org/gt5kkn
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICMLA.2017.00-19
+  title: Malicious Software Classification Using Transfer Learning of ResNet-50 Deep
+    Neural Network
+  authors:
+  - Edmar Rezende
+  - Guilherme Ruppert
+  - Tiago Carvalho
+  - Fabio Ramos
+  - Paulo de Geus
+  publisher: 2017 16th IEEE International Conference on Machine Learning and Applications
+    (ICMLA)
+  date: '2017-12-01'
+  link: https://doi.org/gjrk86
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11416-017-0292-8
+  title: 'The other guys: automated analysis of marginalized malware'
+  authors:
+  - Marcus Felipe Botacin
+  - "Paulo L\xEDcio de Geus"
+  - "Andr\xE9 Ricardo Abed Gr\xE9gio"
+  publisher: Journal of Computer Virology and Hacking Techniques
+  date: '2017-02-27'
+  link: https://doi.org/gt5kkp
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3199673
+  title: Who Watches the Watchmen
+  authors:
+  - Marcus Botacin
+  - "Paulo L\xEDcio De Geus"
+  - "Andr\xE9 gr\xE9gio"
+  publisher: ACM Computing Surveys
+  date: '2018-07-13'
+  link: https://doi.org/gt5kkq
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.19146/pibic-2016-51820
+  title: "Detec\xE7\xE3o de t\xE9cnicas de anti-forense em programas maliciosos"
+  authors:
+  - VITOR FALCAO DA ROCHA
+  - Paulo Licio De Geus
+  - "ANDR\xC9 GR\xC9GIO"
+  - MARCUS BOTACIN
+  publisher: "Anais do Congresso de Inicia\xE7\xE3o Cient\xEDfica da Unicamp"
+  date: '2016-10-22'
+  link: https://doi.org/gt5kkr
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3233/AO-160163
+  title: An ontology of suspicious software behavior
+  authors:
+  - "Andr\xE9 Gr\xE9gio"
+  - Rodrigo Bonacin
+  - Antonio Carlos de Marchi
+  - Olga Fernanda Nabuco
+  - "Paulo L\xEDcio de Geus"
+  publisher: Applied Ontology
+  date: '2016-03-22'
+  link: https://doi.org/gt5kks
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.14722/NDSS.2016.23384
+  title: 'Going Native: Using a Large-Scale Analysis of Android Apps to Create a Practical
+    Native-Code Sandboxing Policy'
+  authors:
+  - Vitor Afonso
+  - Antonio Bianchi
+  - Yanick Fratantonio
+  - Adam Doupe
+  - Mario Polino
+  - Paulo de Geus
+  - Christopher Kruegel
+  - Giovanni Vigna
+  publisher: Proceedings 2016 Network and Distributed System Security Symposium
+  date: '2016-01-01'
+  link: https://doi.org/gnrnt9
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.19146/pibic-2015-37604
+  title: MALICIOUS SOFTWARE IDENTIFICATION THROUGH OPERATING SYSTEM MONITORING
+  authors:
+  - Paulo Licio De Geus
+  - Marcus Felipe Botacin
+  publisher: "Anais do Congresso de Inicia\xE7\xE3o Cient\xEDfica da Unicamp"
+  date: '2015-11-20'
+  link: https://doi.org/gt5kkt
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11416-014-0226-7
+  title: Identifying Android malware using dynamically obtained features
+  authors:
+  - Vitor Monte Afonso
+  - Matheus Favero de Amorim
+  - "Andr\xE9 Ricardo Abed Gr\xE9gio"
+  - Glauco Barroso Junquera
+  - "Paulo L\xEDcio de Geus"
+  publisher: Journal of Computer Virology and Hacking Techniques
+  date: '2014-10-17'
+  link: https://doi.org/gnm78z
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2857218.2857254
+  title: Return on security investment for cloud computing
+  authors:
+  - Carlos Alberto da Silva
+  - Paulo Licio de Geus
+  publisher: Proceedings of the 7th International Conference on Management of computational
+    and collective intElligence in Digital EcoSystems
+  date: '2015-10-25'
+  link: https://doi.org/gt5kkv
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/SERVICES.2015.53
+  title: 'Security Testing Methodology for Evaluation of Web Services Robustness -
+    Case: XML Injection'
+  authors:
+  - Marcelo Invert Palma Salas
+  - Paulo Licio De Geus
+  - Eliane Martins
+  publisher: 2015 IEEE World Congress on Services
+  date: '2015-06-01'
+  link: https://doi.org/gt5kkw
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/LATINCOM.2014.7041843
+  title: An approach to security-SLA in cloud computing environment
+  authors:
+  - Carlos Alberto da Silva
+  - Paulo Licio de Geus
+  publisher: 2014 IEEE Latin-America Conference on Communications (LATINCOM)
+  date: '2014-11-01'
+  link: https://doi.org/gt5kkx
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/WETICE.2014.72
+  title: 'Ontology for malware behavior: A core model proposal'
+  authors:
+  - Andre Gregio
+  - Rodrigo Bonacin
+  - Olga Nabuco
+  - Vitor Monte Afonso
+  - Paulo Licio De Geus
+  - Mario Jino
+  publisher: 2014 IEEE 23rd International WETICE Conference
+  date: '2014-06-01'
+  link: https://doi.org/gt5kkz
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/comjnl/bxv047
+  title: Toward a Taxonomy of Malware Behaviors
+  authors:
+  - "Andr\xE9 Ricardo Abed Gr\xE9gio"
+  - Vitor Monte Afonso
+  - "Dario Sim\xF5es Fernandes Filho"
+  - "Paulo L\xEDcio de Geus"
+  - Mario Jino
+  publisher: The Computer Journal
+  date: '2015-07-13'
+  link: https://doi.org/f7t9tz
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2480362.2480704
+  title: An empirical analysis of malicious internet banking software behavior
+  authors:
+  - "Andr\xE9 Ricardo A. Gr\xE9gio"
+  - "Dario Sim\xF5es Fernandes"
+  - Vitor Monte Afonso
+  - "Paulo L\xEDcio de Geus"
+  - Victor Furuse Martins
+  - Mario Jino
+  publisher: Proceedings of the 28th Annual ACM Symposium on Applied Computing
+  date: '2013-03-18'
+  link: https://doi.org/gt5kk2
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICC.2012.6364108
+  title: A hybrid framework to analyze web and OS malware
+  authors:
+  - Vitor M. Afonso
+  - Dario S. Fernandes Filho
+  - Andre R. A. Gregio
+  - Paulo L. de Geus
+  - Mario Jino
+  publisher: 2012 IEEE International Conference on Communications (ICC)
+  date: '2012-06-01'
+  link: https://doi.org/gt5kk3
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/LatinCloud.2012.6508157
+  title: A methodology for management of cloud computing using security criteria
+  authors:
+  - Carlos Alberto da Silva
+  - Anderson Soares Ferreira
+  - Paulo Licio de Geus
+  publisher: 2012 IEEE Latin America Conference on Cloud Computing and Communications
+    (LatinCloud)
+  date: '2012-11-01'
+  link: https://doi.org/gt5kk4
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-31128-4_23
+  title: Interactive Analysis of Computer Scenarios through Parallel Coordinates Graphics
+  authors:
+  - Gabriel D. Cavalcante
+  - Sebastien Tricaud
+  - Cleber P. Souza
+  - "Paulo L\xEDcio de Geus"
+  publisher: "Computational Science and Its Applications \u2013 ICCSA 2012"
+  date: '2012-01-01'
+  link: https://doi.org/gt5kk5
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-31128-4_22
+  title: Interactive, Visual-Aided Tools to Analyze Malware Behavior
+  authors:
+  - "Andr\xE9 Ricardo Abed Gr\xE9gio"
+  - Alexandre Or Cansian Baruque
+  - Vitor Monte Afonso
+  - "Dario Sim\xF5es Fernandes Filho"
+  - "Paulo L\xEDcio de Geus"
+  - Mario Jino
+  - Rafael Duarte Coelho dos Santos
+  publisher: "Computational Science and Its Applications \u2013 ICCSA 2012"
+  date: '2012-01-01'
+  link: https://doi.org/gt5kk6
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-31128-4_20
+  title: Pinpointing Malicious Activities through Network and System-Level Malware
+    Execution Behavior
+  authors:
+  - "Andr\xE9 Ricardo Abed Gr\xE9gio"
+  - Vitor Monte Afonso
+  - "Dario Sim\xF5es Fernandes Filho"
+  - "Paulo L\xEDcio de Geus"
+  - Mario Jino
+  - Rafael Duarte Coelh dos Santos
+  publisher: "Computational Science and Its Applications \u2013 ICCSA 2012"
+  date: '2012-01-01'
+  link: https://doi.org/gt5kk7
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/spe.1014
+  title: "Scalable model\u2010based configuration management of security services\
+    \ in complex enterprise networks"
+  authors:
+  - "Jo\xE3o Porto de Albuquerque"
+  - Heiko Krumm
+  - "Paulo L\xEDcio de Geus"
+  - "Ren\xE9 Jeruschkat"
+  publisher: 'Software: Practice and Experience'
+  date: '2010-10-19'
+  link: https://doi.org/dr867n
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10207-010-0101-6
+  title: Formal validation of automated policy refinement in the management of network
+    security systems
+  authors:
+  - "Jo\xE3o Porto de Albuquerque"
+  - Heiko Krumm
+  - "Paulo L\xEDcio de Geus"
+  publisher: International Journal of Information Security
+  date: '2010-02-20'
+  link: https://doi.org/c9t5kw
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/1878450.1878465
+  title: Kolline
+  authors:
+  - Fernando Figueira Filho
+  - Gary M. Olson
+  - "Paulo L\xEDcio de Geus"
+  publisher: Proceedings of the 28th ACM International Conference on Design of Communication
+  date: '2010-09-27'
+  link: https://doi.org/fgw783
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/NOMS.2008.4575274
+  title: Model-based management of security services in complex network environments
+  authors:
+  - Joao Porto de Albuquerque
+  - Heiko Krumm
+  - Paulo Licio de Geus
+  publisher: NOMS 2008 - 2008 IEEE Network Operations and Management Symposium
+  date: '2008-01-01'
+  link: https://doi.org/dgzjw2
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CCNC.2007.191
+  title: A Policy-Based Framework for Interoperable Digital Content Management
+  authors:
+  - Fernando Marques Figueira Filho
+  - Joao Porto de Albuquerque
+  - Paulo Licio de Geus
+  - Heiko Krumm
+  publisher: 2007 4th IEEE Consumer Communications and Networking Conference
+  date: '2007-01-01'
+  link: https://doi.org/fv9jwt
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.17877/de290r-15888
+  title: Modellierung von Netzsicherheitsystemen umfangreicher vernetzter IT-Infrastrukturen
+  authors:
+  - Heiko Krumm
+  - Paulo Licio De Geus
+  - Joao Porto De Albuquerque
+  publisher: Lecture Notes in Informatics (LNI) Proceedings;P-68
+  date: '2005-09-01'
+  link: https://doi.org/gt5kk8
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/POLICY.2005.24
+  title: Policy Modeling and Refinement for Network Security Systems
+  authors:
+  - J.P. de Albuquerque
+  - H. Krumm
+  - P.L. de Geus
+  publisher: Sixth IEEE International Workshop on Policies for Distributed Systems
+    and Networks (POLICY'05)
+  date: ''
+  link: https://doi.org/bvzwtn
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICONIP.2002.1202866
+  title: 'Adenoids: a hybrid IDS based on the immune system'
+  authors:
+  - F.S. Paula
+  - M.A. Reis
+  - D.A.M. Fernandes
+  - P.L. Geus
+  publisher: Proceedings of the 9th International Conference on Neural Information
+    Processing, 2002. ICONIP '02.
+  date: ''
+  link: https://doi.org/c2kqt5
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.46586/tches.v2023.i4.32-57
   title: 'BASALISC: Programmable Hardware Accelerator for BGV Fully Homomorphic Encryption'
   authors:
