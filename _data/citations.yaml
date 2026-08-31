@@ -1,5 +1,29 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1007/978-3-032-22698-3_6
+  title: "PETCHA: Post-quantum Efficient Transciphering with\_ChaCha"
+  authors:
+  - "Antonio Guimar\xE3es"
+  - Gabriela M. Jacob
+  - Hilder V. L. Pereira
+  publisher: Lecture Notes in Computer Science
+  date: '2026-01-01'
+  link: https://doi.org/hbwvn9
+  orcid: 0000-0003-1303-3760
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3719027.3765181
+  title: Fast Amortized Bootstrapping with Small Keys and Polynomial Noise Overhead
+  authors:
+  - "Antonio Guimar\xE3es"
+  - Hilder V. L. Pereira
+  publisher: Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications
+    Security
+  date: '2025-11-19'
+  link: https://doi.org/hbb8nv
+  orcid: 0000-0003-1303-3760
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.62056/anxrxrxqi
   title: Towards Practical Transciphering for FHE with Setup Independent of the Plaintext
     Space
@@ -33,7 +57,7 @@
   - Axel Mertens
   - Jeongeun Park
   - Hilder V. L. Pereira
-  publisher: Information Security and Privacy
+  publisher: Lecture Notes in Computer Science
   date: '2024-01-01'
   link: https://doi.org/gt5bcj
   orcid: 0000-0003-1303-3760
@@ -45,7 +69,7 @@
   - "Antonio Guimar\xE3es"
   - Hilder V. L. Pereira
   - Barry van Leeuwen
-  publisher: "Advances in Cryptology \u2013 ASIACRYPT 2023"
+  publisher: Lecture Notes in Computer Science
   date: '2023-01-01'
   link: https://doi.org/gt5bck
   orcid: 0000-0003-1303-3760
@@ -59,7 +83,7 @@
   - Jeongeun Park
   - Hilder V. L. Pereira
   - Nigel P. Smart
-  publisher: "Advances in Cryptology \u2013 ASIACRYPT 2022"
+  publisher: Lecture Notes in Computer Science
   date: '2022-01-01'
   link: https://doi.org/gt5bcm
   orcid: 0000-0003-1303-3760
@@ -70,7 +94,7 @@
     One Second
   authors:
   - Hilder Vitor Lima Pereira
-  publisher: "Public-Key Cryptography \u2013 PKC 2021"
+  publisher: Lecture Notes in Computer Science
   date: '2021-01-01'
   link: https://doi.org/gt5bcn
   orcid: 0000-0003-1303-3760
@@ -175,7 +199,7 @@
   - "Julio L\xF3pez"
   - Ricardo Dahab
   publisher: Advances in Mathematics of Communications
-  date: '2019-01-01'
+  date: '2020-01-01'
   link: https://doi.org/gt5bcs
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
@@ -238,12 +262,12 @@
   - Giuliano Sider
   - Ricardo Dahab
   - "Julio L\xF3pez"
-  publisher: "Progress in Cryptology \u2013 LATINCRYPT 2019"
+  publisher: Lecture Notes in Computer Science
   date: '2019-01-01'
   link: https://doi.org/gt5bcw
-  orcid: 0000-0002-7002-875X
+  orcid: 0000-0002-2776-5105
   plugin: orcid.py
-  file: orcid.yaml
+  file: orcid-postdoc.yaml
 - id: doi:10.1109/tr.2019.2937214
   title: Understanding How to Use Static Analysis Tools for Detecting Cryptography
     Misuse in Software
@@ -360,7 +384,7 @@
   authors:
   - Roberto Gallo
   - Ricardo Dahab
-  publisher: Information Security Education Across the Curriculum
+  publisher: IFIP Advances in Information and Communication Technology
   date: '2015-01-01'
   link: https://doi.org/gt5bc6
   orcid: 0000-0002-7002-875X
@@ -372,7 +396,7 @@
   - Erick Nascimento
   - "Julio L\xF3pez"
   - Ricardo Dahab
-  publisher: Security, Privacy, and Applied Cryptography Engineering
+  publisher: Lecture Notes in Computer Science
   date: '2015-01-01'
   link: https://doi.org/gt5bc7
   orcid: 0000-0002-7002-875X
@@ -455,7 +479,7 @@
   - "Conrado P. L. Gouv\xEAa"
   - "Julio L\xF3pez"
   - Ricardo Dahab
-  publisher: Security Engineering and Intelligence Informatics
+  publisher: Lecture Notes in Computer Science
   date: '2013-01-01'
   link: https://doi.org/gt5bdd
   orcid: 0000-0002-7002-875X
@@ -524,12 +548,12 @@
 - id: doi:10.3934/amc.2010.4.169
   title: Efficient implementation of elliptic curve cryptography in wireless sensors
   authors:
-  - Diego Aranha
+  - Diego F. Aranha
   - Ricardo Dahab
   - "Julio L\xF3pez"
-  - Leonardo Oliveira
+  - Leonardo B. Oliveira
   publisher: Advances in Mathematics of Communications
-  date: '2010-05-01'
+  date: '2010-01-01'
   link: https://doi.org/d9mtgk
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
@@ -549,7 +573,7 @@
   - Roberto Gallo
   - Henrique Kawakami
   - Ricardo Dahab
-  publisher: Public Key Infrastructures, Services and Applications
+  publisher: Lecture Notes in Computer Science
   date: '2010-01-01'
   link: https://doi.org/ftjrjm
   orcid: 0000-0002-7002-875X
@@ -655,7 +679,7 @@
   - Augusto Jun Devegili
   - Michael Scott
   - Ricardo Dahab
-  publisher: "Pairing-Based Cryptography \u2013 Pairing 2007"
+  publisher: Lecture Notes in Computer Science
   date: ''
   link: https://doi.org/dv3r86
   orcid: 0000-0002-7002-875X
@@ -841,6 +865,17 @@
   orcid: 0000-0002-7002-875X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.5753/jisa.2024.3907
+  title: Deep Learning Applied to Imbalanced Malware Datasets Classification
+  authors:
+  - Marcelo Palma Salas
+  - "Paulo L\xEDcio De Geus"
+  publisher: Journal of Internet Services and Applications
+  date: '2024-09-16'
+  link: https://doi.org/g59b5v
+  orcid: 0000-0002-6540-8686
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3615366.3615374
   title: Enhancing Malware Family Classification in the Microsoft Challenge Dataset
     via Transfer Learning
@@ -975,7 +1010,7 @@
   - Daniela Oliveira
   - "Andr\xE9 Gr\xE9gio"
   - "Paulo L\xEDcio de Geus"
-  publisher: Developments in Language Theory
+  publisher: Lecture Notes in Computer Science
   date: '2018-01-01'
   link: https://doi.org/gt5kkm
   orcid: 0000-0002-6540-8686
@@ -1221,7 +1256,7 @@
   - Sebastien Tricaud
   - Cleber P. Souza
   - "Paulo L\xEDcio de Geus"
-  publisher: "Computational Science and Its Applications \u2013 ICCSA 2012"
+  publisher: Lecture Notes in Computer Science
   date: '2012-01-01'
   link: https://doi.org/gt5kk5
   orcid: 0000-0002-6540-8686
@@ -1237,7 +1272,7 @@
   - "Paulo L\xEDcio de Geus"
   - Mario Jino
   - Rafael Duarte Coelho dos Santos
-  publisher: "Computational Science and Its Applications \u2013 ICCSA 2012"
+  publisher: Lecture Notes in Computer Science
   date: '2012-01-01'
   link: https://doi.org/gt5kk6
   orcid: 0000-0002-6540-8686
@@ -1253,7 +1288,7 @@
   - "Paulo L\xEDcio de Geus"
   - Mario Jino
   - Rafael Duarte Coelh dos Santos
-  publisher: "Computational Science and Its Applications \u2013 ICCSA 2012"
+  publisher: Lecture Notes in Computer Science
   date: '2012-01-01'
   link: https://doi.org/gt5kk7
   orcid: 0000-0002-6540-8686
@@ -1362,6 +1397,99 @@
   orcid: 0000-0002-6540-8686
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.46586/tches.v2026.i1.353-375
+  title: 'Sota Voce: Low-Noise Sampling of Sparse Fixed-Weight Vectors'
+  authors:
+  - "D\xE9cio Luiz Gazzoni Filho"
+  - Gora Adj
+  - Slim Bettaieb
+  - Alessandro Budroni
+  - "Jorge Ch\xE1vez-Saab"
+  - "Francisco Rodr\xEDguez-Henr\xEDquez"
+  publisher: IACR Transactions on Cryptographic Hardware and Embedded Systems
+  date: '2026-01-16'
+  link: https://doi.org/hccsws
+  orcid: 0000-0002-6001-2172
+  plugin: orcid.py
+  file: orcid-phd-candidate.yaml
+- id: doi:10.1007/978-3-032-06754-8_17
+  title: "Runtime Code Generation for\_Constant-Time Secret-Indexed Array Accesses:\
+    \ Applications to\_PERK and\_NTRU"
+  authors:
+  - "D\xE9cio Luiz Gazzoni Filho"
+  - Rafael G. Flores e Silva
+  - Alessandro Budroni
+  - Marco Palumbi
+  - Gora Adj
+  publisher: Lecture Notes in Computer Science
+  date: '2025-10-02'
+  link: https://doi.org/hccswt
+  orcid: 0000-0002-6001-2172
+  plugin: orcid.py
+  file: orcid-phd-candidate.yaml
+- id: doi:10.46586/tches.v2025.i4.588-620
+  title: Generation of Fast Finite Field Arithmetic forCortex-M4 with ECDH and SQIsign
+    Applications
+  authors:
+  - Felix Carvalho Rodrigues
+  - "D\xE9cio Gazzoni Filho"
+  - Gora Adj
+  - "Isaac A. Canales-Mart\xEDnez"
+  - "Jorge Ch\xE1vez-Saab"
+  - "Julio L\xF3pez"
+  - Michael Scott
+  - "Francisco Rodr\xEDguez-Henr\xEDquez"
+  publisher: IACR Transactions on Cryptographic Hardware and Embedded Systems
+  date: '2025-09-05'
+  link: https://doi.org/g96s9b
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.5753/sbseg.2025.10439
+  title: Fast implementation of GF(28) inversion with applications to the AES S-box
+    using ARM Helium MVE extensions
+  authors:
+  - Eric Azevedo de Oliveira
+  - "D\xE9cio Luiz Gazzoni Filho"
+  - Felix Carvalho Rodrigues
+  - "Julio L\xF3pez"
+  publisher: "Anais do XXV Simp\xF3sio Brasileiro de Ciberseguran\xE7a (SBSeg 2025)"
+  date: '2025-09-01'
+  link: https://doi.org/hb2cc4
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.46586/tches.v2025.i1.497-522
+  title: Optimized One-Dimensional SQIsign Verification on Intel and Cortex-M4
+  authors:
+  - Marius A. Aardal
+  - Gora Adj
+  - Arwa Alblooshi
+  - Diego F. Aranha
+  - "Isaac A. Canales-Mart\xEDnez"
+  - "Jorge Ch\xE1vez-Saab"
+  - "D\xE9cio Luiz Gazzoni Filho"
+  - Krijn Reijnders
+  - "Francisco Rodr\xEDguez-Henr\xEDquez"
+  publisher: IACR Transactions on Cryptographic Hardware and Embedded Systems
+  date: '2024-12-09'
+  link: https://doi.org/g9mt89
+  orcid: 0000-0002-6001-2172
+  plugin: orcid.py
+  file: orcid-phd-candidate.yaml
+- id: doi:10.1007/978-3-031-64381-1_3
+  title: "Quasi-optimal Permutation Ranking and\_Applications to\_PERK"
+  authors:
+  - Slim Bettaieb
+  - Alessandro Budroni
+  - Marco Palumbi
+  - "D\xE9cio Luiz Gazzoni Filho"
+  publisher: Lecture Notes in Computer Science
+  date: '2024-01-01'
+  link: https://doi.org/g9mt9b
+  orcid: 0000-0002-6001-2172
+  plugin: orcid.py
+  file: orcid-phd-candidate.yaml
 - id: doi:10.62056/a6n59qgxq
   title: Efficient isochronous fixed-weight sampling with applications to NTRU
   authors:
@@ -1371,6 +1499,22 @@
   publisher: IACR Communications in Cryptology
   date: '2024-07-08'
   link: https://doi.org/gt5bb9
+  orcid: 0000-0002-6001-2172
+  plugin: orcid.py
+  file: orcid-phd-candidate.yaml
+- id: doi:10.1109/arith61463.2024.00012
+  title: 'PQC-AMX: Accelerating Saber and FrodoKEM on the Apple M1 and M3 SoCs'
+  authors:
+  - "D\xE9cio Luiz Gazzoni Filho"
+  - "Guilherme Brand\xE3o"
+  - Gora Adj
+  - Arwa Alblooshi
+  - "Isaac A. Canales-Mart\xEDnez"
+  - "Jorge Ch\xE1vez-Saab"
+  - "Julio L\xF3pez"
+  publisher: 2024 IEEE 31st Symposium on Computer Arithmetic (ARITH)
+  date: '2024-06-10'
+  link: https://doi.org/g9mt9c
   orcid: 0000-0002-6001-2172
   plugin: orcid.py
   file: orcid-phd-candidate.yaml
@@ -1384,6 +1528,19 @@
   publisher: IACR Communications in Cryptology
   date: '2024-04-09'
   link: https://doi.org/gt5bcb
+  orcid: 0000-0002-6001-2172
+  plugin: orcid.py
+  file: orcid-phd-candidate.yaml
+- id: doi:10.5753/sbseg.2023.233093
+  title: "Improving FALCON\u2019s Key Generation on ARMv8-A Platforms"
+  authors:
+  - Caio Teixeira
+  - "D\xE9cio Luiz Gazzoni Filho"
+  - "Julio C\xE9sar L\xF3pez Hern\xE1ndez"
+  publisher: "Anais do XXIII Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\
+    \xE3o e de Sistemas Computacionais (SBSeg 2023)"
+  date: '2023-09-18'
+  link: https://doi.org/g9mt9d
   orcid: 0000-0002-6001-2172
   plugin: orcid.py
   file: orcid-phd-candidate.yaml
@@ -1402,14 +1559,97 @@
   orcid: 0000-0002-6001-2172
   plugin: orcid.py
   file: orcid-phd-candidate.yaml
-- id: isbn:978-3-030-40921-0
-  title: "Lecture notes in computer science. 11975: Information Security and Cryptology\
-    \ \u2013 ICISC 2019: 22nd International Conference, Seoul, South Korea, December\
-    \ 4\u20136, 2019, Revised Selected Papers / Jae Hong Seo (Ed.)"
-  authors: []
-  publisher: Springer
-  date: '1197-01-01'
-  link: ''
+- id: doi:10.1109/access.2019.2939117
+  title: Howland Current Source Applied to Magnetic Field Generation in a Tri-Axial
+    Helmholtz Coil
+  authors:
+  - Daniel S. Batista
+  - Guilherme B. Silva
+  - Francisco Granziera
+  - Marcelo C. Tosin
+  - Decio L. Gazzoni Filho
+  - Leonimer F. Melo
+  publisher: IEEE Access
+  date: '2019-01-01'
+  link: https://doi.org/hccswv
+  orcid: 0000-0002-6001-2172
+  plugin: orcid.py
+  file: orcid-phd-candidate.yaml
+- id: doi:10.1504/ijscpm.2012.049544
+  title: Error-correcting codes for reliable communications in microgravity platforms
+  authors:
+  - "D\xE9cio L. Gazzoni Filho"
+  - Taufik Abrao
+  - Marcelo Carvalho Tosin
+  - Francisco Granziera <suffix>Jr.</suffix>
+  publisher: International Journal of Satellite Communications Policy and Management
+  date: '2012-01-01'
+  link: https://doi.org/hccsww
+  orcid: 0000-0002-6001-2172
+  plugin: orcid.py
+  file: orcid-phd-candidate.yaml
+- id: doi:10.1016/j.ipl.2007.09.012
+  title: Rotation symmetry in algebraically generated cryptographic substitution tables
+  authors:
+  - Vincent Rijmen
+  - Paulo S.L.M. Barreto
+  - "D\xE9cio L. Gazzoni Filho"
+  publisher: Information Processing Letters
+  date: '2008-06-01'
+  link: https://doi.org/bx56p6
+  orcid: 0000-0002-6001-2172
+  plugin: orcid.py
+  file: orcid-phd-candidate.yaml
+- id: doi:10.5753/sbseg.2006.20936
+  title: The MAELSTROM-0 Hash Function
+  authors:
+  - "D\xE9cio Luiz Gazzoni Filho"
+  - Paulo S. L. M. Barreto
+  - Vincent Rijmen
+  publisher: "Anais do VI Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\xE3\
+    o e de Sistemas Computacionais (SBSeg 2006)"
+  date: '2006-08-28'
+  link: https://doi.org/hccswx
+  orcid: 0000-0002-6001-2172
+  plugin: orcid.py
+  file: orcid-phd-candidate.yaml
+- id: doi:10.5753/sbseg.2005.21521
+  title: An efficient variant of the RSA cryptosystem
+  authors:
+  - "Cesar Alison Monteiro Paixa\u0303o"
+  - "De\u0301cio Luiz Gazzoni Filho"
+  publisher: "Anais do V Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\xE3\
+    o e de Sistemas Computacionais (SBSeg 2005)"
+  date: '2005-09-26'
+  link: https://doi.org/hccswz
+  orcid: 0000-0002-6001-2172
+  plugin: orcid.py
+  file: orcid-phd-candidate.yaml
+- id: doi:10.5753/sbseg.2023.233113
+  title: 'A Minimal White-Box Dedicated Cipher Proposal Using Incompressible Lookup
+    Tables: Space-Hard AES'
+  authors:
+  - "F\xE9lix Carvalho Rodrigues"
+  - Ricardo Dahab
+  - "Julio L\xF3pez"
+  - Hayato Fujii
+  - Ana Clara Zoppi Serpa
+  publisher: "Anais do XXIII Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\
+    \xE3o e de Sistemas Computacionais (SBSeg 2023)"
+  date: '2023-09-18'
+  link: https://doi.org/g9s4gv
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.1007/978-3-030-40921-0_5
+  title: Fast AES Implementation Using ARMv8 ASIMD Without Cryptography Extension
+  authors:
+  - Hayato Fujii
+  - "F\xE9lix Carvalho Rodrigues"
+  - "Julio L\xF3pez"
+  publisher: Lecture Notes in Computer Science
+  date: '2020-01-01'
+  link: https://doi.org/g9s4gw
   orcid: 0000-0002-2776-5105
   plugin: orcid.py
   file: orcid-postdoc.yaml
@@ -1422,6 +1662,49 @@
   publisher: Electronic Notes in Theoretical Computer Science
   date: '2019-04-01'
   link: https://doi.org/gt5bfh
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.5753/sbseg.2019.13986
+  title: A Secure White Box Implementation of AES Against First Order DCA
+  authors:
+  - Ana Clara Serpa
+  - Giuliano Sider
+  - Hayato Fujii
+  - "F\xE9lix Rodrigues"
+  - Ricardo Dahab
+  - "Julio L\xF3pez"
+  publisher: "Anais do XIX Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\xE3\
+    o e de Sistemas Computacionais (SBSeg 2019)"
+  date: '2019-09-02'
+  link: https://doi.org/g9s4gx
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.5753/sbseg.2018.4264
+  title: White Box Implementations of Dedicated Ciphers on the ARM NEON Architecture
+  authors:
+  - Ricardo Dahab
+  - "Julio L\xF3pez"
+  - "F\xE9lix Carvalho Rodrigues"
+  - Hayato Fujii
+  - Giuliano Sider
+  - Ana Clara Serpa
+  publisher: "Anais do XVIII Simp\xF3sio Brasileiro de Seguran\xE7a da Informa\xE7\
+    \xE3o e de Sistemas Computacionais (SBSeg 2018)"
+  date: '2018-10-25'
+  link: https://doi.org/g9s4gz
+  orcid: 0000-0002-2776-5105
+  plugin: orcid.py
+  file: orcid-postdoc.yaml
+- id: doi:10.22456/2175-2745.71429
+  title: 'Non-Cooperative Facility Location Games: a Survey'
+  authors:
+  - "F\xE9lix Carvalho Rodrigues"
+  - Eduardo Xavier
+  publisher: "Revista de Inform\xE1tica Te\xF3rica e Aplicada"
+  date: '2017-08-02'
+  link: https://doi.org/g9s4g2
   orcid: 0000-0002-2776-5105
   plugin: orcid.py
   file: orcid-postdoc.yaml
@@ -1443,7 +1726,7 @@
   - Marcus Ritt
   - Felix Rodrigues
   - "Guido Sch\xE4fer"
-  publisher: "Schloss Dagstuhl \u2013 Leibniz-Zentrum f\xFCr Informatik"
+  publisher: OASIcs, Volume 20, ATMOS 2011
   date: '2011-01-01'
   link: https://doi.org/gt5bfk
   orcid: 0000-0002-2776-5105
